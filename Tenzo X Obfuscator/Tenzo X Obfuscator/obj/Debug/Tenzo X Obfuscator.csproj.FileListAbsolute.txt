@@ -1,0 +1,22 @@
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\bin\Debug\Tenzo X Obfuscator.exe.config
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\bin\Debug\Tenzo X Obfuscator.exe
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\bin\Debug\Tenzo X Obfuscator.pdb
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\bin\Debug\dnlib.xml
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\bin\Debug\Newtonsoft.Json.xml
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\bin\Debug\System.Buffers.xml
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\bin\Debug\System.Memory.xml
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\bin\Debug\System.Net.Http.Formatting.xml
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\bin\Debug\System.Numerics.Vectors.xml
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\obj\Debug\Tenzo X Obfuscator.csproj.AssemblyReference.cache
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\obj\Debug\Tenzo_X_Obfuscator.Form1.resources
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\obj\Debug\Tenzo_X_Obfuscator.Properties.Resources.resources
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\obj\Debug\Tenzo X Obfuscator.csproj.GenerateResource.cache
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\obj\Debug\Tenzo X Obfuscator.csproj.CoreCompileInputs.cache
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\obj\Debug\Tenzo X Obfuscator.csproj.Fody.CopyLocal.cache
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\obj\Debug\Tenzo X Obfuscator.csproj.Fody.RuntimeCopyLocal.cache
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\obj\Debug\Tenzo X .4CC0FAEA.Up2Date
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\obj\Debug\Tenzo X Obfuscator.exe
+D:\codes\src\Tenzo X Obfuscator\Tenzo X Obfuscator\obj\Debug\Tenzo X Obfuscator.pdb
